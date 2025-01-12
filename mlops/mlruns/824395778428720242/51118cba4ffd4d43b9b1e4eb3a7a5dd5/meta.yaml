@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/824395778428720242/51118cba4ffd4d43b9b1e4eb3a7a5dd5/artifacts
+end_time: 1725524037704
+entry_point_name: ''
+experiment_id: '824395778428720242'
+lifecycle_stage: active
+run_id: 51118cba4ffd4d43b9b1e4eb3a7a5dd5
+run_name: auspicious-dove-176
+run_uuid: 51118cba4ffd4d43b9b1e4eb3a7a5dd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725524034652
+status: 3
+tags: []
+user_id: bla

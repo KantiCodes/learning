@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1725608473709
+current_stage: None
+description: ''
+last_updated_timestamp: 1725608473709
+name: ClassificationModel
+run_id: 2d7f51ad66dc411f8c89cbe06ac0317b
+run_link: ''
+source: mlflow-artifacts:/707500131727696303/2d7f51ad66dc411f8c89cbe06ac0317b/artifacts/sklearn-model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/707500131727696303/2d7f51ad66dc411f8c89cbe06ac0317b/artifacts/sklearn-model
+user_id: null
+version: 1

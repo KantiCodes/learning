@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/707500131727696303/30519c80654b4b66b0d2af141875365e/artifacts
+end_time: 1725608145340
+entry_point_name: ''
+experiment_id: '707500131727696303'
+lifecycle_stage: active
+run_id: 30519c80654b4b66b0d2af141875365e
+run_name: ambitious-rook-284
+run_uuid: 30519c80654b4b66b0d2af141875365e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725608142293
+status: 3
+tags: []
+user_id: bla
