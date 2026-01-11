@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     'merge_sort/merge_sort_in_place'
+relocations:     []
+...
